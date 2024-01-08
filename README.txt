@@ -1,7 +1,7 @@
 BepInEx.ForceQuit
 2023-2024 Haruka
 
-Public domain
+Licensed under the Unlicense.
 
 ---
 
